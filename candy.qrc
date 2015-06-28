@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/candy">
+        <file>2048.png</file>
+        <file>1024.png</file>
+        <file>512.png</file>
+        <file>256.png</file>
+        <file>128.png</file>
+        <file>64.png</file>
+        <file>32.png</file>
+        <file>16.png</file>
+        <file>8.png</file>
+        <file>4.png</file>
+        <file>2.png</file>
+        <file>oneal.jpg</file>
+        <file>64_bomb.png</file>
+        <file>64_col.png</file>
+        <file>64_row.png</file>
+        <file>32_bomb.png</file>
+        <file>32_col.png</file>
+        <file>32_row.png</file>
+        <file>16_bomb.png</file>
+        <file>16_col.png</file>
+        <file>16_row.png</file>
+        <file>8_bomb.png</file>
+        <file>8_row.png</file>
+        <file>8_col.png</file>
+        <file>4_bomb.png</file>
+        <file>4_row.png</file>
+        <file>4_col.png</file>
+        <file>2_bomb.png</file>
+        <file>2_col.png</file>
+        <file>2_row.png</file>
+    </qresource>
+</RCC>
